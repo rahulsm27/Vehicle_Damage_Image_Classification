@@ -1,2 +1,7 @@
 /test
 /train
+/dataset
+/dataset_final
+*.png
+*.jpeg
+*.jpg 
