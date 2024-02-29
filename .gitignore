@@ -2,6 +2,8 @@
 /train
 /dataset
 /dataset_final
+/test_sample
+/untrack
 *.png
 *.jpeg
 *.jpg 

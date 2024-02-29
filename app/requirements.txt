@@ -1,0 +1,7 @@
+split-folders
+keras
+numpy
+pandas
+keras-efficientnet
+efficientnet
+scikit-learn
