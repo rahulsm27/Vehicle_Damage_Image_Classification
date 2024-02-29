@@ -1,6 +1,6 @@
 ## Vehicle damage classification for Insurance Company
 
-This repo is about image classification using tensorflow framework and efficient model
+This repo is about image classification using tensorflow framework and efficient model.
 
 The dataset consists of vehicle damage photos. The photos are classified into six categories
 
@@ -11,6 +11,6 @@ The dataset consists of vehicle damage photos. The photos are classified into si
 5. glass shatter
 6. lamp broke
 
-The goal is to build a model to able to classify the images into these categories.
+The goal is to build a model that classify the images into these categories.
 
 The code should be run on a GPU cluster like Colab or Kaggle.
